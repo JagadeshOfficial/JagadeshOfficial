@@ -1,11 +1,11 @@
 # <p align="center">💎 JAGADESH OFFICIAL | THE ARCHITECT 💎</p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JagadeshOfficial/JagadeshOfficial/main/github_profile_banner.png" alt="Jagadesh Official Banner" width="100%">
+  <img src="https://img.shields.io/badge/JAGADESH%20OFFICIAL-THE%20ARCHITECT-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27" alt="Jagadesh Official Banner" width="100%">
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JagadeshOfficial/JagadeshOfficial/main/readme_rpg_stats_and_grid.png" alt="Jagadesh Dashboard" width="100%">
+  <img src="https://github-readme-stats.vercel.app/api?username=JagadeshOfficial&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Jagadesh Dashboard" height="195" />
 </p>
 
 <p align="center">
@@ -13,13 +13,13 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=FULL+STACK+ARCHITECT;AI+ENGINEERING+PIONEER;CLOUD+SOLUTIONS+EXPERT;OPEN+SOURCE+VISIONARY" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=FULL+STACK+ARCHITECT;AI+ENGINEERING+PIONEER;90%2B+REPOSITORIES;QUANTUM+COMPUTING" alt="Typing SVG" /></a>
 </p>
 
 ---
 
 ### 🌌 THE ODYSSEY
-I am a visionary **Full Stack Architect** and **AI Engineering Pioneer** dedicated to crafting the digital fabric of the future. With a robust portfolio of **90+ high-impact repositories**, my work bridges the gap between complex algorithmic intelligence and seamless, premium user experiences. 
+I am a visionary **Full Stack Architect** and **AI Engineering Pioneer** dedicated to crafting the digital fabric of the future. With a robust portfolio of **90+ high-impact repositories**, my work spans cutting-edge technologies and scalable solutions.
 
 - 🌱 Currently mastering **Quantum Computing** & **Web3 Architecture**.
 - 👯 Looking to collaborate on **Open Source AI Frameworks**.
@@ -102,14 +102,14 @@ I am a visionary **Full Stack Architect** and **AI Engineering Pioneer** dedicat
 
 ### 🎧 NOW PROJECTING (SOUNDTRACK)
 <p align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=tokyonight"><img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=tokyonight" /></a>
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=tokyonight"><img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=tokyonight" alt="Spotify Profile" /></a>
 </p>
 
 ---
 
 ### 🤝 SUPPORT THE ARCHITECT
 <p align="center">
-<a href="https://www.buymeacoffee.com/yourhandle" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<a href="https://www.buymeacoffee.com/yourhandle" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" /></a>
 <a href="https://paypal.me/yourhandle" target="_blank"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" /></a>
 </p>
 
